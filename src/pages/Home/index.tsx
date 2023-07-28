@@ -32,9 +32,9 @@ const Home: React.FC = () => {
         <Toolbar />
         <MySlider />
         <SecondBanner />
-        {/* <AboutSection /> */}
-        {/* <CustomerReviewSection /> */}
-        {/* <ProductSlider /> */}
+        <AboutSection /> 
+        <CustomerReviewSection />
+         <ProductSlider />
         <AboutUsWithImg />
         {/* <Footer /> */}
       </Box>
